@@ -7,7 +7,6 @@
 * [Features](#features)
 * [Project Development](#project-development)
 * [Setup](#setup)
-* [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Google Colab](#google-colab)
 <!-- * [License](#license) -->
@@ -51,10 +50,6 @@ List the ready features here:
 ## Setup
 Project utilizes cutting inserts images collected by ADLINK NEON 2000 camera. Stored:
 https://drive.google.com/drive/folders/1lf42JO9PQdO09VsaYtjwALDH3pwM55xS
-
-
-## Project Status
-Project is: _finished_ 
 
 
 ## Room for Improvement
